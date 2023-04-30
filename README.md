@@ -1,1 +1,1 @@
-A simple Bootstrap practice project.
+A Bootstrap practice project.
